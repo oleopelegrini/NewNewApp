@@ -36,4 +36,4 @@
                 <label for="curso" class="form-label">Curso:</label>
                     <input type="text" value="<?= $model->Curso ?>"
                         class="form-control" name="curso" id="curso">
-                </div>  
+                </div>
