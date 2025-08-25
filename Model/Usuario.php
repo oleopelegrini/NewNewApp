@@ -1,7 +1,7 @@
 <?php
-namespace LibraryETEC\Model;
+namespace NEWNEWAPP\Model;
 
-use LibraryETEC\DAO\UsuarioDAO;
+use NEWNEWAPP\DAO\UsuarioDAO;
 use Exception;
 
 final class Usuario extends Model

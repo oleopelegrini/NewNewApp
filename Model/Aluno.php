@@ -1,7 +1,7 @@
 <?php
-    namespace LibraryETEC\Model;
+    namespace NEWNEWAPP\Model;
 
-    use LibraryETEC\DAO\AlunoDAO;
+    use NEWNEWAPP\DAO\AlunoDAO;
     use Exception;
 
     final class Aluno extends Model

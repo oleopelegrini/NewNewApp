@@ -1,5 +1,5 @@
 <?php
-namespace LibraryETEC\Model;
+namespace NEWNEWAPP\Model;
 
 use LibraryETEC\DAO\CategoriaDAO;
 use Exception;

@@ -1,6 +1,6 @@
 <?php
 
-namespace AulaThiagotas\Model;
+namespace NEWNEWAPP\Model;
 
 use AulaThiagotas\DAO\LivroDAO;
 use Exception;

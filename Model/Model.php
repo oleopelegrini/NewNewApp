@@ -1,5 +1,5 @@
 <?php
-    namespace LibraryETEC\Model;
+    namespace NEWNEWAPP\Model;
 
     abstract class Model
     {
