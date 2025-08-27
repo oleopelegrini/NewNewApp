@@ -1,7 +1,7 @@
 <?php
-    namespace LibraryETEC\Controller;
+    namespace NEWNEWAPP\Controller;
 
-    use LibraryETEC\Model\Model;
+    use NEWNEWAPP\Model\Model;
 
     abstract class Controller
     {

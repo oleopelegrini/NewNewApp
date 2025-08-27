@@ -1,7 +1,7 @@
 <?php
-    namespace LibraryETEC\Controller;
+    namespace NEWNEWAPP\Controller;
 
-    use LibraryETEC\Model\{ Emprestimo, Aluno, Livro };
+    use NEWNEWAPP\Model\{ Emprestimo, Aluno, Livro };
     use Exception;
 
     final class EmprestimoController extends Controller
@@ -58,7 +58,7 @@
                 $model->setError($e->getMessage());
             }
 
-            $model->rows_alunos = new Aluno()->getAllRows;
+            $model->rows_alunos = new Aluno()->AllRowsget;
             $model->rows_livros = new Livro()->getAllRows;
 
             parent::render('Emprestimo/form_emprestimo.php', $model);   

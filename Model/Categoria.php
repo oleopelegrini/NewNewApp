@@ -1,7 +1,7 @@
 <?php
 namespace NEWNEWAPP\Model;
 
-use LibraryETEC\DAO\CategoriaDAO;
+use NEWNEWAPP\DAO\CategoriaDAO;
 use Exception;
 
 final class Categoria extends Model

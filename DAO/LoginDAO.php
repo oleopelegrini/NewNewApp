@@ -1,7 +1,7 @@
 <?php
-    namespace AulaThiagotas\DAO;
+    namespace NEWNEWAPP\DAO;
 
-    use AulaThiagotas\Model\Login;
+    use NEWNEWAPP\Model\Login;
 
     final class LoginDAO extends DAO
     {

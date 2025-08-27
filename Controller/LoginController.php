@@ -1,7 +1,7 @@
 <?php
-    namespace LibraryETEC\Controller;
+    namespace NEWNEWAPP\Controller;
 
-    use LibraryETEC\Model\Login;
+    use NEWNEWAPP\Model\Login;
 
     final class LoginController
     {

@@ -1,7 +1,7 @@
 <?php
-    namespace LibraryETEC\DAO;
+    namespace NEWNEWAPP\DAO;
 
-    use LibraryETEC\Model\Autor;
+    use NEWNEWAPP\Model\Autor;
 
     final class AutorDAO extends DAO
     {

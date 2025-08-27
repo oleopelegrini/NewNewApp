@@ -1,7 +1,7 @@
 <?php
-    namespace LibraryETEC\Controller;
+    namespace NEWNEWAPP\Controller;
 
-    use LibraryETEC\Model\Categoria;
+    use NEWNEWAPP\Model\Categoria;
     use Exception;
 
     final class CategoriaConrtoller extends Controller

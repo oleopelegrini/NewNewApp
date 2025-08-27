@@ -1,7 +1,7 @@
 <?php
-    namespace LibraryETEC\Controller;
-
-    use LibraryETEC\Model\Autor;
+    namespace NEWNEWAPP\Controller;
+    use NEWNEWAPP\Controller\Controller;
+    use NEWNEWAPP\Model\Autor;
     use Exception;
 
     final class AutorConrtoller extends Controller

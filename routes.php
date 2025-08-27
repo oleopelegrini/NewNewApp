@@ -1,6 +1,6 @@
 <?php
 
-use App\Controller\{
+use NEWNEWAPP\Controller\{
     AlunoController,
     InicialController,
     LoginController,
@@ -14,7 +14,7 @@ $url = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 
 switch($url)
 {
-    case '/':
+    case '/controller':
         InicialController::index();
     break;
 

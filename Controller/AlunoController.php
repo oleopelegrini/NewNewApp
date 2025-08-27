@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Controller;
+namespace NEWNEWAPP\Controller;
 
-use App\Model\Aluno;
+use NEWNEWAPP\Model\Aluno;
 use Exception;
 
 final class AlunoController extends Controller 

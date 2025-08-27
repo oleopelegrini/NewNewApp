@@ -1,4 +1,4 @@
-# NewNewApp
+# NEWNEWAPP
 
 ## 📱 Visão Geral
 AppPHP é uma aplicação moderna e robusta desenvolvida para otimizar a experiência do usuário em gerenciamento de tarefas diárias. Construída com tecnologias de ponta, esta aplicação entrega performance superior e uma interface intuitiva.
@@ -26,10 +26,10 @@ AppPHP é uma aplicação moderna e robusta desenvolvida para otimizar a experi�
 
 ```bash
 # Clone o repositório
-git clone https://github.com/oleopelegrini/NewNewApp.git
+git clone https://github.com/oleopelegrini/NEWNEWAPP.git
 
 # Navegue até o diretório
-cd NewNewApp
+cd NEWNEWAPP
 
 # Restaure os pacotes
 dotnet restore
@@ -40,11 +40,11 @@ dotnet run
 
 ## 📊 Estrutura do Projeto
 ```
-NewNewApp/
+NEWNEWAPP/
 ├── src/
-│   ├── NewNewApp.Core/        # Lógica de negócios e modelos
-│   ├── NewNewApp.UI/          # Interface do usuário
-│   └── NewNewApp.Services/    # Serviços e APIs
+│   ├── NEWNEWAPP.Core/        # Lógica de negócios e modelos
+│   ├── NEWNEWAPP.UI/          # Interface do usuário
+│   └── NEWNEWAPP.Services/    # Serviços e APIs
 ├── tests/                     # Testes unitários e de integração
 └── docs/                      # Documentação
 ```

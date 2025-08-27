@@ -1,7 +1,7 @@
 <?php
-    namespace LibraryETEC\DAO;
+    namespace NEWNEWAPP\DAO;
 
-    use LibraryETEC\Model\Categoria;
+    use NEWNEWAPP\Model\Categoria;
 
     final class CategoriaDAO extends DAO
     {

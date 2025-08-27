@@ -1,8 +1,8 @@
 <?php
 
-namespace App\DAO;
+namespace NEWNEWAPP\DAO;
 
-use App\Model\Aluno;
+use NEWNEWAPP\Model\Aluno;
 
 final class AlunoDAO extends DAO
 {

@@ -2,7 +2,7 @@
 
 namespace NEWNEWAPP\Model;
 
-use AulaThiagotas\DAO\LivroDAO;
+use NEWNEWAPP\DAO\LivroDAO;
 use Exception;
 
 /**

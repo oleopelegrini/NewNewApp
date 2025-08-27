@@ -1,7 +1,7 @@
 <?php
-    namespace LibraryETEC\DAO;
+    namespace NEWNEWAPP\DAO;
 
-    use LibraryETEC\Model\Emprestimo;
+    use NEWNEWAPP\Model\Emprestimo;
 
     final class EmprestimoDAO extends DAO
     {

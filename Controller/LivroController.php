@@ -1,7 +1,7 @@
 <?php
-    namespace LibraryETEC\Controller;
+    namespace NEWNEWAPP\Controller;
 
-    use LibraryETEC\Model\{ Livro, Categoria, Autor };
+    use NEWNEWAPP\Model\{ Livro, Categoria, Autor };
     use Exception;
 
     final class LivroConrtoller extends Controller

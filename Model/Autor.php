@@ -1,7 +1,7 @@
 <?php
 namespace NEWNEWAPP\Model;
 
-use LibraryETEC\DAO\AutorDAO;
+use NEWNEWAPP\DAO\AutorDAO;
 use Exception;
 
 final class Autor extends Model
